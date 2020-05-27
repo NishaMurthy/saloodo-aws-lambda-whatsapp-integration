@@ -8,12 +8,12 @@ This AWS Lambda function acts as incoming webhook for incoming whatsapp messages
 <code>npm i</code>
 
 <h4>Deploy the lambda function</h4>
-We can deploy AWS lambda functions with:
+ We can deploy AWS lambda functions with:
 
-1. Serverless application
-2. AWS dashboard
+   1. Serverless application
+   2. AWS dashboard
 
-1. steps to deploy through Serverless application
+Steps to deploy through Serverless application
 
 Install and setup serverless - https://www.serverless.com/framework/docs/providers/aws/cli-reference/install/
 
@@ -23,7 +23,7 @@ Install and setup serverless - https://www.serverless.com/framework/docs/provide
 
 https://www.serverless.com/framework/docs/providers/aws/cli-reference/deploy/
 
-2. steps to deploy through AWS Dashboard
+Steps to deploy through AWS Dashboard
 
 a. upload the application zip folder to aws lambda function and save it.
 
